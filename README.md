@@ -20,11 +20,11 @@ Para ejecutar este proyecto de forma local en su dispositivo, se necesita Python
    ```
 3. Ejecutar la calculadora manualmente:
    ```bash
-   python main.py
+   python Calculadora_simple.py
    ```
 4. Ejecutar las pruebas locales:
    ```bash
-   pytest test_main.py
+   pytest test_calculadora.py
    ```
 
 Estructura de Automatización (CI/CD)
